@@ -464,6 +464,10 @@ img.user-img {
   padding: 6px;
 }
 
+.width-150 {
+  width: 150px;
+}
+
 
 
 @media only screen and (max-width: 426px) {
